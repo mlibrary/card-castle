@@ -12,7 +12,7 @@ You know, for Trello.  And because House of Cards is a thing on Netflix.
 ## Instructions
 
 1. [Get yourself a developer api key for trello](https://trello.com/1/appKey/generate).
-1. Get a member token: https://trello.com/1/connect?key=&lt;YOUR_API_KEY&gt;&name=card-castle&response_type=token
+1. Get a member token: https://trello.com/1/connect?key=<YOUR_API_KEY&name=card-castle&response_type=token
 1. clone this repo
 1. run `bundle install --path=.bundle` in the clone
 1. create a .env in the clone with
